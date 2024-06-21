@@ -16,6 +16,7 @@
 
 ### 3. 패키지 설치
 1. `requirements.txt` 파일을 사용하여 필요한 패키지를 설치합니다. 터미널이나 커맨드 프롬프트에서 다음 명령어를 실행합니다:
+   
     ```bash
     pip install -r requirements.txt
     ```
