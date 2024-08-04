@@ -39,27 +39,6 @@
     streamlit run app.py
     ```
 
-## 사용 방법
-1. 웹 브라우저에서 열리는 Streamlit 앱에서 댓글을 입력합니다.
-2. '예측' 버튼을 클릭하여 댓글이 정상 댓글인지 악성 댓글인지 확인합니다.
-
-
-김지민_202135749_프로젝트/      
-├── 김지민_202135749_dataset.zip       # 데이터셋 압축 파일.                 
-├── 김지민_202135749_model.zip     # 모델 압축 파일     
-├── app.py                         # Streamlit 애플리케이션 메인 파일     
-├── kff.ipynb                      # Jupyter 노트북 파일   
-├── kff.py                         # 파이썬 파일    
-└── requirements.txt               # 필요한 Python 패키지 목록       
-
-
-- `김지민_202135749_dataset.zip`: 데이터셋 파일입니다. 필요에 따라 압축을 해제하여 사용합니다.
-- `김지민_202135749_model.zip`: 모델 파일입니다. 필요에 따라 압축을 해제하여 사용합니다.
-- `app.py`: Streamlit 애플리케이션의 메인 파일입니다.
-- `kff.ipynb`: Jupyter 노트북 파일입니다. 데이터 분석이나 모델 학습 과정이 포함되어 있을 수 있습니다.
-- `kff.py`: Python 스크립트 파일입니다.
-- `requirements.txt`: 필요한 Python 패키지 목록입니다.
-
 ## 요구 사항
 - `python 3.x`
 - `streamlit==1.36.0`
